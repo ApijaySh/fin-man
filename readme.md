@@ -1,4 +1,4 @@
-<title>FinMan Core</title
+<title>FinMan Core</title>
 
 <h1>FinMan Core</h1>
 
